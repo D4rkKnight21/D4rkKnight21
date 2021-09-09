@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=D4rkKnight21 alt=D4rkKnight21 /> </p>
+<!--<p align=left> <img src=https://komarev.com/ghpvc/?username=D4rkKnight21 alt=D4rkKnight21 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=D4rkKnight21&show_icons=true&include_all_commits=true)](https://github.com/D4rkKnight21/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKnight21&layout=compact)](https://github.com/D4rkKnight21/github-readme-stats)
+--->
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=D4rkKnight21&theme=gotham&show_icons=tr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKnight21&theme=gotham&&langs_count=10&layout=compact)](https://github.com/D4rkKnight21/github-readme-stats)
+
